@@ -1,3 +1,3 @@
-# itsmeshubham
+# Shubham Portfolio
 
 Personal Portfolio 👀
